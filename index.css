@@ -1,0 +1,147 @@
+body{   
+    margin: 0;
+    background-color: #8BC6EC;
+    background-image: linear-gradient(135deg, #8BC6EC 0%, #9599E2 100%);    
+}
+#SubmitBtn{
+    padding: 19px 19px 19px 20px;
+    margin: 15px 5px 5px 15px;
+    position: absolute; 
+    top: 210px;
+    left: 950px;
+}
+#btn1{
+    margin: 15px 5px 5px 15px;
+    position: absolute;
+    top: 490px;
+    right: 895px;
+    padding: 19px 19px 19px 20px;
+    text-align: center;
+    text-transform: uppercase;
+    transition: 0.5s;
+    background-size: 200% auto;
+    color: white;            
+    box-shadow: 0 0 20px #eee;
+    border-radius: 10px;
+    display: block;
+    background-position: right center; 
+    color: #fff;
+    cursor: pointer;
+    text-decoration: none;
+}
+#btn2{
+    margin: 15px 5px 5px 15px;
+    position: absolute;
+    top: 490px;
+    right: 50%;
+    padding: 19px 19px 19px 20px;
+    text-align: center;
+    text-transform: uppercase;
+    transition: 0.5s;
+    background-size: 200% auto;
+    color: white;            
+    box-shadow: 0 0 20px #eee;
+    border-radius: 10px;
+    display: block;
+    background-position: right center; 
+    color: #fff;
+    text-decoration: none;
+
+}
+#btn3{
+    margin: 15px 5px 5px 15px;
+    position: absolute;
+    top: 490px;
+    left: 825px;
+    right: 640px;
+    padding: 19px 19px 19px 20px;
+    text-align: center;
+    text-transform: uppercase;
+    transition: 0.5s;
+    background-size: 200% auto;
+    color: white;            
+    box-shadow: 0 0 20px #eee;
+    border-radius: 10px;
+    display: block;
+    background-position: right center; 
+    color: #fff;
+    text-decoration: none;
+}
+#btn4{
+    margin: 15px 5px 5px 15px;
+    position: absolute;
+    top: 420px;
+    right: 895px;
+    padding: 19px 19px 19px 20px;
+}
+#btn5{
+    margin: 15px 5px 5px 15px;
+    position: absolute;
+    top: 420px;
+    right: 960px;
+    padding: 19px 19px 19px 20px;
+}
+#btn6{
+    margin: 15px 5px 5px 15px;
+    position: absolute;
+    left: 825px;
+    top: 420px;
+    right: 735px;
+    padding: 19px 19px 19px 20px;
+}
+#btn7{
+    margin: 15px 5px 5px 15px;
+    position: absolute;
+    top: 350px;
+    right: 897px;
+    padding: 19px 19px 19px 20px;
+}
+#btn8{
+    margin: 15px 5px 5px 15px;
+    position: absolute;
+    top: 350px;
+    right: 960px;
+    padding: 19px 19px 19px 20px;
+}
+#btn9{
+    margin: 15px 5px 5px 15px;
+    position: absolute;
+    top: 350px;
+    right: 1026px;
+    padding: 19px 19px 19px 20px;
+}
+#links15{
+    margin: 15px 5px 5px 15px;
+    position: absolute;
+    top: 280px;
+    right: 1027.5px;
+    padding: 19px 19px 19px 20px;
+}
+#links25{
+    margin: 15px 5px 5px 15px;
+    position: absolute;
+    top: 280px;
+    right: 897px;
+    padding: 19px 19px 19px 20px;
+}
+#links35{
+    margin: 15px 5px 5px 15px;
+    position: absolute;
+    top: 280px;
+    right: 965px;
+    padding: 19px 19px 19px 20px;
+}
+#links45{
+    margin: 15px 5px 5px 15px;
+    position: absolute;   
+    top: 210px;
+    right: 966px;
+    padding: 19px 19px 19px 20px;
+}
+#links55{
+    margin: 15px 5px 5px 15px;
+    position: absolute;
+    top: 210px;
+    right: 1030px;
+    padding: 19px 19px 19px 20px;
+}
